@@ -1,0 +1,21 @@
+{
+    "form": {
+        "name": "Name",
+        "email": "Email",
+        "channel": "Channel",
+        "comment": "Comment",
+        "address": "Address",
+        "facebook": "Facebook profile",
+        "twitter": "Twitter profile",
+        "primaryPh": "Primary phone number",
+        "secondaryPh": "Secondary phone number",
+        "listPh": "List of phone numbers",
+        "submit": "Submit",
+        "errors": {
+            "name": "Name is required",
+            "email": "Email is required",
+            "channel": "Channel is required",
+            "comment": "Comment is required"
+        }
+    }
+}
