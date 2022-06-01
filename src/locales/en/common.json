@@ -1,7 +1,7 @@
 {
     "form": {
         "name": "Name",
-        "email": "Email",
+        "email": "Email (edited on lokalise)",
         "channel": "Channel",
         "comment": "Comment",
         "address": "Address",
