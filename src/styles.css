@@ -1,0 +1,22 @@
+.formWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.error {
+  color: red;
+  border: 0.2rem solid red;
+  margin-bottom: 0.5rem;
+  border-radius: 0.5rem;
+  width: fit-content;
+  padding: 0 0.5rem;
+}
+
+.formSection {
+  width: 50rem;
+  margin: 8rem auto;
+  border: 0.2rem solid darkblue;
+  border-radius: 3rem;
+  padding: 5rem;
+}
