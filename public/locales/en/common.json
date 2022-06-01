@@ -20,6 +20,7 @@
         "newEntry": "New entry in form",
         "newObject": {
             "test": "New entry in newObject"
-        }
+        },
+        "newEntry2": ""
     }
 }

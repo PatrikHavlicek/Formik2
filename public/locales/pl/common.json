@@ -1,0 +1,26 @@
+{
+    "form": {
+        "name": "",
+        "email": "",
+        "channel": "",
+        "comment": "",
+        "address": "suka suka",
+        "facebook": "",
+        "twitter": "",
+        "primaryPh": "",
+        "secondaryPh": "",
+        "listPh": "",
+        "submit": "",
+        "errors": {
+            "name": "",
+            "email": "",
+            "channel": "",
+            "comment": ""
+        },
+        "newEntry": "",
+        "newObject": {
+            "test": "Suka"
+        },
+        "newEntry2": ""
+    }
+}

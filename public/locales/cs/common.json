@@ -1,26 +1,26 @@
 {
-  "form": {
-    "name": "Jméno (upraveno na lokalise)",
-    "email": "Email",
-    "channel": "Kanál",
-    "comment": "Komentář",
-    "address": "Adresa",
-    "facebook": "Facebook profil",
-    "twitter": "Twitter profil",
-    "primaryPh": "Primární telefonní číslo",
-    "secondaryPh": "Sekundární telefonní číslo",
-    "listPh": "List telefonních čísel",
-    "submit": "Odeslat",
-    "errors": {
-      "name": "Jméno je povinné",
-      "email": "Email je povinný",
-      "channel": "Kanál je povinný",
-      "comment": "Komentář je povinný"
-    },
-    "newEntry": "Nový záznam ve form",
-    "newObject": {
-      "test": "Nový záznam v newObject"
-    },
-    "newEntry2": "Nový záznam z VS code"
-  }
+    "form": {
+        "name": "Jméno (upraveno na lokalise)",
+        "email": "Email",
+        "channel": "Kanál",
+        "comment": "Komentář",
+        "address": "Adresa",
+        "facebook": "Facebook profil",
+        "twitter": "Twitter profil",
+        "primaryPh": "Primární telefonní číslo",
+        "secondaryPh": "Sekundární telefonní číslo",
+        "listPh": "List telefonních čísel",
+        "submit": "Odeslat",
+        "errors": {
+            "name": "Jméno je povinné",
+            "email": "Email je povinný",
+            "channel": "Kanál je povinný",
+            "comment": "Komentář je povinný"
+        },
+        "newEntry": "Nový záznam ve form",
+        "newObject": {
+            "test": "Nový záznam v newObject"
+        },
+        "newEntry2": "Nový záznam z VS code"
+    }
 }
