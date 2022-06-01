@@ -16,6 +16,10 @@
             "email": "Email is required",
             "channel": "Channel is required",
             "comment": "Comment is required"
+        },
+        "newEntry": "New entry in form",
+        "newObject": {
+            "test": "New entry in newObject"
         }
     }
 }

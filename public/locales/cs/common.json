@@ -16,6 +16,10 @@
             "email": "Email je povinný",
             "channel": "Kanál je povinný",
             "comment": "Komentář je povinný"
+        },
+        "newEntry": "Nový záznam ve form",
+        "newObject": {
+            "test": "Nový záznam v newObject"
         }
     }
 }
